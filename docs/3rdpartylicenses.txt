@@ -75,12 +75,6 @@ MIT
 @ngx-loading-bar/router
 MIT
 
-@ngx-translate/core
-MIT
-
-@ngx-translate/http-loader
-MIT
-
 @sweetalert2/ngx-sweetalert2
 
 @swimlane/ngx-datatable
